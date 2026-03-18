@@ -518,6 +518,7 @@ class Names {
 		'szl' => 'ślůnski', # Silesian
 		'szy' => 'Sakizaya', # Sakizaya - T174601
 		'ta' => 'தமிழ்', # Tamil
+		'tai' => 'Tâi-gí', # Taiwanese
 		'tay' => 'Tayal', # Atayal
 		'tcy' => 'ತುಳು', # Tulu
 		'tdd' => 'ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ', # Tai Nüa
