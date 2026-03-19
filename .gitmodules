@@ -1,0 +1,4 @@
+[submodule "extensions/MobileFrontend"]
+	path = extensions/MobileFrontend
+	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend.git
+	branch = REL1_44
