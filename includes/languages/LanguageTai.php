@@ -11,5 +11,5 @@ use MediaWiki\Language\Language;
  *
  * @ingroup Languages
  */
-class LanguageEn extends Language {
+class LanguageTai extends Language {
 }
