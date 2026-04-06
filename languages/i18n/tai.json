@@ -1234,7 +1234,7 @@
 	"ntimes": "$1×",
 	"enhancedrc-since-last-visit": "$1 {{PLURAL:$1|since last visit}}",
 	"enhancedrc-history": "history",
-	"recentchanges": "Chòe-kīn ê piān-tong",
+	"recentchanges": "Chòe-kīn ê siu-kái",
 	"recentchanges-legend": "Recent changes options",
 	"recentchanges-summary": "Track the most recent changes to the wiki on this page.",
 	"recentchanges-noresult": "No changes during the given period match these criteria.",
